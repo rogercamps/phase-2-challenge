@@ -15,4 +15,4 @@ function weekday(date) {
 Date.getDay()
 
 var dt = new Date("December 25, 1995 23:15:00");
-document.write("getDay() : " + dt.getDay() ); 
+document.write("getDay() : " + dt.getDay() );
